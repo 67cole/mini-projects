@@ -5,6 +5,7 @@ def test_reverse():
     assert reverse_string("hello") == "olleh"
     assert reverse_string("12345") == "54321"
     assert reverse_string("!@#") == "#@!"
+    assert reverse_string("=") == "="
 
 
 if __name__ == "__main__":
