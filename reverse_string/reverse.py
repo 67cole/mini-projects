@@ -13,8 +13,3 @@ def reverse_string(string):
         new_string = new_string + string[i]
     
     return new_string
-
-
-
-given = input("Please enter a string: ")
-print(reverse_string(given))
