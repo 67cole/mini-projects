@@ -16,8 +16,5 @@ def reverse_string(string):
 
 
 
-
-
-
 given = input("Please enter a string: ")
 print(reverse_string(given))
