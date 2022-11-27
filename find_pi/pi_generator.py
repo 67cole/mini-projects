@@ -34,8 +34,3 @@ def pi_to_dec(decimal):
     
 
     return num
-
-
-# Grab input
-decimal = int(input("How many decimal places would you like to print PI in? "))
-print(pi_to_dec(decimal))
